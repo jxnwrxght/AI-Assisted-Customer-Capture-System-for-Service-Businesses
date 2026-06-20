@@ -14,7 +14,7 @@ An automated customer capture workflow designed to help service businesses respo
 
 Proof-of-concept implementation completed and tested using simulated customer inquiries and workflow automation.
 
-Core components include:
+Key Capabilities:
 
 * Missed call detection
 * Automated SMS follow-up
@@ -33,9 +33,7 @@ Through conversations with local service contractors, I noticed a common challen
 
 Whether they're on a roof, inside an attic, driving between jobs, or meeting with customers, there are long periods where answering calls and responding to texts simply isn't possible.
 
-The problem isn't that they don't want to respond.
-
-The problem is that they're busy doing the work customers are paying them to do.
+The issue isn't a lack of responsiveness. It's that contractors are often busy performing the work itself when new inquiries arrive.
 
 During that time, potential customers are often left waiting for a response. Many will contact multiple contractors at once and move on to whoever replies first.
 
