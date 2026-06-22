@@ -13,9 +13,11 @@ An automated customer capture workflow designed to help service businesses respo
 - Contractor notification workflow
 - Reduced risk of losing inbound opportunities
 
+This project focused on improving responsiveness for service contractors by automatically engaging missed-call customers and capturing inquiry information for follow-up.
+
 ## Customer Capture Workflow
 
-![Customer Capture Workflow](customer-capture-workflow.png)
+![Customer Capture Workflow](images/customer-capture-workflow.png)
 
 ---
 
@@ -33,16 +35,15 @@ I wanted to explore whether AI and automation could help bridge that gap by resp
 
 The system automatically captures customer inquiries and logs them for later review.
 
-![CRM Lead Log Example](crm-lead-log-example.png)
+![CRM Lead Log Example](images/crm-lead-log-example.png)
 
 ---
 
-## Technology Stack
+## System Architecture
 
 The workflow was built using a lightweight automation stack designed for rapid deployment and low operational overhead.
 
-![Technology Stack](technology-stack.png)
-
+![Technology Stack](images/technology-stack.png)
 
 ---
 
@@ -50,7 +51,7 @@ The workflow was built using a lightweight automation stack designed for rapid d
 
 Example workflow used to automate customer engagement and lead capture.
 
-![Zapier Workflow Example](missed-call-workflow.png)
+![Zapier Workflow Example](images/missed-call-workflow.png)
 
 ---
 
@@ -68,15 +69,17 @@ This project reinforced the idea that small operational improvements can have a 
 
 ## Repository Contents
 
+## Repository Contents
+
 Docs
-─ executive-summary.pdf
-─ case-study.pdf
-─ presentation-deck.pptx
+- executive-summary.pdf
+- case-study.pdf
+- presentation-deck.pptx
 - Data/
-   ─ crm-lead-log.xlsx
+   - crm-lead-log.xlsx
 
 Images
-─ customer-capture-workflow.png
-─ crm-lead-log-example.png
-─ technology-stack.png
-─ missed-call-workflow.png
+- customer-capture-workflow.png
+- crm-lead-log-example.png
+- technology-stack.png
+- missed-call-workflow.png
