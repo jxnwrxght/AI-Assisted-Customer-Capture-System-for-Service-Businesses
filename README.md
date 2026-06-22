@@ -1,4 +1,4 @@
-# AI-Assisted Customer Capture System for Service Businesses
+# AI-Assisted Missed Call Recovery System for Service Businesses
 
 An automated customer capture workflow designed to help service businesses respond to missed calls and texts, engage potential customers, and prevent potential customers from slipping through the cracks while contractors are busy serving existing customers.
 
@@ -15,7 +15,7 @@ An automated customer capture workflow designed to help service businesses respo
 
 ## Customer Capture Workflow
 
-![Customer Intake Workflow](Customer%20Capture%20System_Customer%20Intake%20Workflow.png)
+![Customer Capture Workflow](customer-capture-workflow.png)
 
 ---
 
@@ -33,7 +33,7 @@ I wanted to explore whether AI and automation could help bridge that gap by resp
 
 The system automatically captures customer inquiries and logs them for later review.
 
-![CRM Lead Log Example](Customer%20Capture%20System_CRM%20Lead%20Log%20Example.png)
+![CRM Lead Log Example](crm-lead-log-example.png)
 
 ---
 
@@ -41,7 +41,8 @@ The system automatically captures customer inquiries and logs them for later rev
 
 The workflow was built using a lightweight automation stack designed for rapid deployment and low operational overhead.
 
-![Technology Stack](Customer%20Capture%20System_Technology%20Stack.png)
+![Technology Stack](technology-stack.png)
+
 
 ---
 
@@ -49,7 +50,7 @@ The workflow was built using a lightweight automation stack designed for rapid d
 
 Example workflow used to automate customer engagement and lead capture.
 
-![Zapier Workflow Example](Customer%20Capture%20System_Zapier%20Missed%20Text%20Example%20Workflow.png)
+![Zapier Workflow Example](missed-call-workflow.png)
 
 ---
 
@@ -67,19 +68,15 @@ This project reinforced the idea that small operational improvements can have a 
 
 ## Repository Contents
 
-### Documentation
+Docs
+─ executive-summary.pdf
+─ case-study.pdf
+─ presentation-deck.pptx
+- Data/
+   ─ crm-lead-log.xlsx
 
-* Customer Capture System_Executive Summary.pdf
-* Customer Capture System_Written Case Study.pdf
-* Customer Capture System_Slide Deck.pptx
-
-### Visual Assets
-
-* Customer Capture System_Customer Intake Workflow.png
-* Customer Capture System_CRM Lead Log Example.png
-* Customer Capture System_Technology Stack.png
-* Customer Capture System_Zapier Missed Text Example Workflow.png
-
-### Supporting Files
-
-* Customer Capture System_CRM Lead Log Example.xlsx
+Images
+─ customer-capture-workflow.png
+─ crm-lead-log-example.png
+─ technology-stack.png
+─ missed-call-workflow.png
